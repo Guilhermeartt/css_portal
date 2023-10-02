@@ -1,0 +1,21 @@
+@media (min-width: 1200px) {
+  section {
+  }
+}
+
+section {
+  padding: 0px 0px;
+}
+
+@media (min-width: 768px) {
+  .cont_list {
+    height: 639px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .cont_list {
+    height: 371px !important;
+  }
+}
+
